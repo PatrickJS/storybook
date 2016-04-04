@@ -1,0 +1,11 @@
+{
+  "name": "storybook",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gdi2290 <github@gdi2290.com>",
+  "license": "Apache-2.0"
+}
